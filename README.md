@@ -1,4 +1,4 @@
-### Hola 👋
+## Hola 👋
 Soy Rafael Minaya, programador con experiencia en el desarrollo de aplicaciones webs backend y frontend.
 
 ## Lenguajes de Programación
